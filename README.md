@@ -23,6 +23,7 @@
     </div>
 <div align="center">
     <img src="http://mazandi.herokuapp.com/api?handle=han97901&theme=warm"/>   
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>    
     
     
