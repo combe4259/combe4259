@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a33ff,100:&height=180&text=Financial Server Developer &animation=&fontColor=fffff0&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a33ff,100:&height=180&text=Financial Server Developer&animation=&fontColor=fffff0&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 </h2>  
