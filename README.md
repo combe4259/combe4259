@@ -9,7 +9,7 @@
 
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={han97901}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=han97901&theme=warm"/>
 
 ## 📘 Recent Studies
 - Hash Chaining Practice (C++):
