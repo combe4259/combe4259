@@ -18,7 +18,16 @@
         <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache%20tomcat&logoColor=white" />
           <br/></div>
     </div>
-    <div algin="center">
+    <div align="center">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Now Studying.. </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
+          <br/></div>
+    </div>
+    <div align="center">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tool </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
