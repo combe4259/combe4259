@@ -7,7 +7,8 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
@@ -17,6 +18,12 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache%20tomcat&logoColor=white" />
+          <br/></div>
+    </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tool </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <br/></div>
     </div>
     <div align= "center">
