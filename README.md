@@ -15,17 +15,18 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
           <br/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache%20tomcat&logoColor=white" />
           <br/></div>
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tool </h2> <br> 
+    <div algin="center">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tool </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <br/></div>
     </div>
+    </div>
+    
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@han97901/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@han97901/posts"> </a>
