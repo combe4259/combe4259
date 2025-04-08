@@ -3,7 +3,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 깊이있는 몰입으로 깊은 통찰을 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 안녕하세요. 깊이 몰입해 깊은 통찰을 얻는 그 순간까지 포기하지 않는 개발자가 되기 위해 공부하고 있습니다.</li>금융 도메인에 대한 이해와 기술 역량을 함께 쌓아가고 있습니다.</li>배우는 속도와 끈기, 그리고 책임감 있는 자세로 금융 시스템이라는 큰 구조 속에서 주도적이고 책임감 있게 성장하겠습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 
+        <li> 안녕하세요. 깊이 몰입해 깊은 통찰을 얻는 그 순간까지 포기하지 않는 개발자가 되기 위해 공부하고 있습니다.</li>
+        <li>금융 도메인에 대한 이해와 기술 역량을 함께 쌓아가고 있습니다.</li>
+        <li>배우는 속도와 끈기, 그리고 책임감 있는 자세로 금융 시스템이라는 큰 구조 속에서 주도적이고 책임감 있게 성장하겠습니다.</li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
