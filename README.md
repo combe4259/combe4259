@@ -38,7 +38,7 @@
           <br/></div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 velog </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@han97901/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@han97901/posts"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
