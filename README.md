@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4133ff,100:fffafa&height=120&text=Financial%20Backend%20Developer&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 깊이있는 몰입으로 깊은 통찰을 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 
         <li> 안녕하세요. 깊이 몰입해 깊은 통찰을 얻는 그 순간까지 포기하지 않는 개발자가 되기 위해 공부하고 있는 김준형입니다.</li>
         <li>금융 도메인에 대한 이해와 기술 역량을 함께 쌓아가고 있습니다.</li>
