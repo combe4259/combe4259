@@ -8,6 +8,79 @@
         <li>금융 도메인에 대한 이해와 기술 역량을 함께 쌓아가고 있습니다.</li>
         <li>배우는 속도와 끈기, 그리고 책임감 있는 자세로 금융 시스템이라는 큰 구조 속에서 주도적이고 책임감 있게 성장하겠습니다.</li> </div> 
     </div>
+    <div align="center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Major Projects </h2> <br>
+    <div style="margin: 0 auto; text-align: center;" align="center">
+        <table>
+            <tr>
+                <td align="center" width="200px">
+                    <strong>LOCUS</strong><br>
+                    <sub>Personalized Federated Learning<br>for Smart Home<br><b>🏅 최우수상</b></sub><br>
+                    <a href="https://github.com/SEAIG10">
+                        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+                    </a>
+                </td>
+                <td align="center" width="200px">
+                    <strong>LucidSync</strong><br>
+                    <sub>KB AI Challenge<br>AI Investment Coaching</sub><br><br>
+                    <a href="https://github.com/combe4259/hek_credit">
+                        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" width="200px">
+                    <strong>말하지 않아도 알아요</strong><br>
+                    <sub>NH AI 아이디어 공모전<br>Multimodal Financial Counseling</sub><br>
+                    <a href="https://github.com/combe4259/NH-MVP">
+                        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+                    </a>
+                </td>
+                <td align="center" width="200px">
+                    <strong>파도가계부</strong><br>
+                    <sub>Android Expense Tracker<br>KAIST Dev Camp</sub><br>
+                    <a href="https://github.com/combe4259/wave_account">
+                        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=com.combe4259.waveaccount&hl=ko">
+                        <img src="https://img.shields.io/badge/Download-414141?style=flat-square&logo=Google%20Play&logoColor=white">
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+<div align="center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Open Source Contributions </h2> <br>
+    <div style="margin: 0 auto; text-align: center;" align="center">
+        <table>
+            <tr>
+                <td align="center" width="400px">
+                    <strong>jsoup</strong><br>
+                    <sub>Java HTML Parser & Web Scraping</sub><br><br>
+                    <div align="left" style="padding: 10px;">
+                        <b>Fix:</b> Use system default ProxySelector in HttpClient<br>
+                        <sub>Improved proxy handling in HTTP client implementation</sub>
+                    </div>
+                    <a href="https://github.com/jhy/jsoup/pull/2390">
+                        <img src="https://img.shields.io/badge/PR%20%232390-181717?style=flat-square&logo=GitHub&logoColor=white">
+                    </a>
+                </td>
+                <td align="center" width="400px">
+                    <strong>Flower</strong><br>
+                    <sub>Federated Learning Framework</sub><br><br>
+                    <div align="left" style="padding: 10px;">
+                        <b>Fix:</b> Correct C++ SDK path in quickstart-cpp<br>
+                        <sub>Fixed documentation path reference for C++ examples</sub>
+                    </div>
+                    <a href="https://github.com/adap/flower/pull/5979">
+                        <img src="https://img.shields.io/badge/PR%20%235979-181717?style=flat-square&logo=GitHub&logoColor=white">
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -43,8 +116,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=combe4259&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+
     
