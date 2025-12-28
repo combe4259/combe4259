@@ -21,7 +21,7 @@
 
 | LOCUS | LucidSync | 말하지 않아도 알아요 | 파도가계부 |
 |:---:|:---:|:---:|:---:|
-| Personalized Federated Learning<br>🏅 **최우수상** | KB AI Challenge<br>AI Investment Coaching | NH AI 아이디어 공모전<br>Multimodal Financial Counseling | Android Expense Tracker<br>KAIST Dev Camp |
+| Personalized Federated Learning<br>🏅 LG전자 HS연구본부-한양대학교 **최우수상** | KB AI Challenge<br>AI Investment Coaching | NH AI 아이디어 공모전<br>Multimodal Financial Counseling | Android Expense Tracker<br>KAIST Dev Camp |
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SEAIG10) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/hek_credit) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/NH-MVP) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/wave_account) [![Download](https://img.shields.io/badge/Download-414141?style=flat-square&logo=Google%20Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.combe4259.waveaccount&hl=ko) |
 
 </div>
