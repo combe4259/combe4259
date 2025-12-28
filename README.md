@@ -50,6 +50,9 @@
         </table>
     </div>
 </div>
+<div>
+    [![Solved.achan97901](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+</div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Open Source Contributions </h2> <br>
     <div style="margin: 0 auto; text-align: center;" align="center">
