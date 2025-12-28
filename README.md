@@ -56,18 +56,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=combe4259&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=combe4259&layout=compact&langs_count=8&theme=dracula&hide_border=false"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=combe4259&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=combe4259&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combe4259&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=combe4259&theme=dracula)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=combe4259&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=combe4259&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
 ---
 
 ## 🛠️ Tech Stacks
