@@ -26,17 +26,6 @@
 
 </div>
 
-<div align="center">
-
-### Algorithm
-
-</div>
-
-<div align="center">
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han97901)](https://solved.ac/han97901)
-
-</div>
 
 <div align="center">
 
@@ -91,4 +80,16 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=han97901&color=dark)](https://velog.io/@han97901)
 
+<div align="center">
+
+### Algorithm
+
 </div>
+
+<div align="center">
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han97901)](https://solved.ac/han97901)
+
+</div>
+</div>
+
