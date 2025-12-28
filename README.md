@@ -4,7 +4,6 @@
 
 <div align="center">
 
-### 👋 소개
 - 안녕하세요. 깊이 몰입해 깊은 통찰을 얻는 그 순간까지 포기하지 않는 개발자가 되기 위해 공부하고 있는 김준형입니다.
 - 금융 도메인에 대한 이해와 기술 역량을 함께 쌓아가고 있습니다.
 - 배우는 속도와 끈기, 그리고 책임감 있는 자세로 금융 시스템이라는 큰 구조 속에서 주도적이고 책임감 있게 성장하겠습니다.
@@ -104,44 +103,6 @@
 </div>
 
 <br>
-
-<div align="center">
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white)
-
-</div>
-
----
-
-## 📚 Now Studying
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-
-</div>
-
----
-
-## 🔧 Tool
-
-<div align="center">
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
-
-</div>
 
 ---
 
