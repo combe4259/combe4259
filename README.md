@@ -1,18 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4133ff,100:fffafa&height=120&text=Financial%20Backend%20Developer&animation=&fontColor=ffffff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4133ff,100:fffafa&height=200&text=Financial%20Backend%20Developer&animation=&fontColor=ffffff&fontSize=40" />
 </div>
 
 <div align="center">
-
-- 안녕하세요. 깊이 몰입해 깊은 통찰을 얻는 그 순간까지 포기하지 않는 개발자가 되기 위해 공부하고 있는 김준형입니다.
-- 금융 도메인에 대한 이해와 기술 역량을 함께 쌓아가고 있습니다.
-- 배우는 속도와 끈기, 그리고 책임감 있는 자세로 금융 시스템이라는 큰 구조 속에서 주도적이고 책임감 있게 성장하겠습니다.
+안녕하세요. 깊이 몰입해 깊은 통찰을 얻는 그 순간까지 포기하지 않는 개발자가 되기 위해 공부하고 있는 김준형입니다.
+금융 도메인에 대한 이해와 기술 역량을 함께 쌓아가고 있습니다.
+배우는 속도와 끈기, 그리고 책임감 있는 자세로 금융 시스템이라는 큰 구조 속에서 주도적이고 책임감 있게 성장하겠습니다.
 
 </div>
 
 ---
 
-## 💼 Major Projects
+### Major Projects
 
 <div align="center">
 
@@ -28,9 +27,7 @@
 
 </div>
 
----
-
-## 🏆 Algorithm
+### Algorithm
 
 <div align="center">
 
@@ -38,9 +35,8 @@
 
 </div>
 
----
 
-## 🌟 Open Source Contributions
+### Open Source Contributions
 
 <div align="center">
 
@@ -52,53 +48,37 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
+### Tech Stacks
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=combe4259&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combe4259&layout=compact&theme=dracula)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github"/>
 </div>
 
----
 
-## 🛠️ Tech Stacks
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-</div>
-
-<br>
-
----
-
-## 🧑‍💻 Blog
+### Blog
 
 <div align="center">
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@han97901/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=han97901)](https://velog.io/@han97901)
+
+[![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=han97901)](https://velog.io/@han97901)
 
 </div>
