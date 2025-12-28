@@ -59,13 +59,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=combe4259&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=combe4259&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combe4259&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=combe4259&theme=dracula)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=combe4259&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combe4259&layout=compact&theme=dracula)
 
 </div>
 
