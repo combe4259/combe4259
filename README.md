@@ -19,19 +19,21 @@
 
 ### 🏆 Major Projects
 
-| LOCUS | LucidSync | 말하지 않아도 알아요 | 파도가계부 |
-|:---:|:---:|:---:|:---:|
-| Personalized Federated Learning<br>🏅 LG전자 HS연구본부-한양대학교 **최우수상** | KB AI Challenge<br>AI Investment Coaching | NH AI 아이디어 공모전<br>Multimodal Financial Counseling | Android Expense Tracker<br>KAIST Dev Camp |
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SEAIG10) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/hek_credit) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/NH-MVP) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/wave_account) [![Download](https://img.shields.io/badge/Download-414141?style=flat-square&logo=Google%20Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.combe4259.waveaccount&hl=ko) |
+| 프로젝트 | 기간 | 설명 |
+|:---|:---:|:---|
+| **🥇 LOCUS**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SEAIG10) | 2025.09 ~ 12 | **On-device AI 기반 예측 청소 시스템**<br>• 멀티모달(시각·청각·위치·시간) 컨텍스트 융합으로 오염 발생을 예측하는 능동형 시스템<br>• 🏅 LG전자 HS연구본부-한양대학교 **최우수상** |
+| **💰 LucidSync**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/hek_credit) | 2025.07 ~ 08 | **AI-Powered Investment Coaching Platform**<br>• 모의투자 환경의 투자 의사경력 능력 향상 부재 문제 해결 - 매매패턴 점수화와 뉴스 감성분석을 통한 모의거래 피드백|
+| **🗣️ 말하지 않아도 알아요**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/NH-MVP) | 2025.08 ~ 09 | **Multimodal AI Financial Counseling System**<br>• 음성·텍스트·이미지 멀티모달 시스템으로 고객의 이해도 파악 -> 어려운 문장 -> 쉬운 문장 변환<br>• NH AI 아이디어 공모전 - CNN+LSTM+Attention, KLUE-BERT, NL2SQL |
+| **🌊 파도가계부**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/wave_account) [![Download](https://img.shields.io/badge/Download-414141?style=flat-square&logo=Google%20Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.combe4259.waveaccount&hl=ko) | 2025.07 | **Android Expense Tracker with Wave Analytics**<br>• 파도처럼 흐르는 지출 패턴을 시각화한 가계부<br>• KAIST Dev Camp - Google Play Store 배포 |
 
 ---
 
 ### 🌟 Open Source Contributions
 
-| jsoup | Flower |
-|:---:|:---:|
-| **Fix:** Use system default ProxySelector in HttpClient | **Fix:** Correct C++ SDK path in quickstart-cpp |
-| [![PR #2390](https://img.shields.io/badge/PR%20%232390-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jhy/jsoup/pull/2390) | [![PR #5979](https://img.shields.io/badge/PR%20%235979-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/adap/flower/pull/5979) |
+| 프로젝트 | 기여 내용 |
+|:---|:---|
+| **jsoup**<br>[![PR #2390](https://img.shields.io/badge/PR%20%232390-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jhy/jsoup/pull/2390) | Fix: Use system default ProxySelector in HttpClient |
+| **Flower**<br>[![PR #5979](https://img.shields.io/badge/PR%20%235979-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/adap/flower/pull/5979) | Fix: Correct C++ SDK path in quickstart-cpp |
 
 ---
 
