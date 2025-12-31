@@ -88,22 +88,16 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-
-<b>Blog</b>
-
+<b>Blog</b><br><br>
 <a href="https://velog.io/@han97901">
 <img src="https://velog-readme-stats.vercel.app/api?name=han97901&color=dark" alt="Velog's GitHub stats"/>
 </a>
-
 </td>
 <td align="center" width="50%">
-
-<b>Algorithm</b>
-
+<b>Algorithm</b><br><br>
 <a href="https://solved.ac/han97901">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=han97901" alt="Solved.ac 프로필"/>
 </a>
-
 </td>
 </tr>
 </table>
