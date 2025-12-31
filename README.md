@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4133ff,100:fffafa&height=200&text=Financial%20Backend%20Developer&animation=&fontColor=ffffff&fontSize=40" />
 </p>
 
-<h3 align="center">👋 안녕하세요, 김준형입니다</h3>
+<h3 align="center">👋 안녕하세요, 김준형입니다!!</h3>
 
 <p align="center">
   <b>트래픽이 몰리는 순간, 시스템이 말해주는 진짜 문제를 찾아내는 개발자</b>
