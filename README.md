@@ -3,22 +3,28 @@
 </div>
 
 <div align="center">
+  
+### 👋 안녕하세요, 김준형입니다
 
-깊이 몰입해 깊은 통찰을 얻는 그 순간까지 포기하지 않는 개발자 김준형입니다.  
-금융 도메인에 대한 이해와 기술 역량을 함께 쌓아가고 있습니다.
+**트래픽이 몰리는 순간, 시스템이 말해주는 진짜 문제를 찾아내는 개발자**
+
+환율 변동, 증시 급등락처럼 예측 불가능한 트래픽 환경에서  
+안정적이고 확장 가능한 백엔드 시스템을 설계하는 것에 매력을 느낍니다.  
+금융 도메인의 기술적 도전과 실시간 데이터 처리의 복잡성을 깊이 탐구하며,  
+**깊이 몰입해 통찰을 얻는 그 순간까지** 포기하지 않습니다.
 
 </div>
 
 ---
 
 <div align="center">
-
-### Major Projects
+  
+### 🏆 Major Projects
 
 </div>
 
 <div align="center">
-
+  
 | LOCUS | LucidSync | 말하지 않아도 알아요 | 파도가계부 |
 |:---:|:---:|:---:|:---:|
 | Personalized Federated Learning<br>🏅 LG전자 HS연구본부-한양대학교 **최우수상** | KB AI Challenge<br>AI Investment Coaching | NH AI 아이디어 공모전<br>Multimodal Financial Counseling | Android Expense Tracker<br>KAIST Dev Camp |
@@ -26,15 +32,16 @@
 
 </div>
 
+---
 
 <div align="center">
-
-### Open Source Contributions
+  
+### 🌟 Open Source Contributions
 
 </div>
 
 <div align="center">
-
+  
 | jsoup | Flower |
 |:---:|:---:|
 | **Fix:** Use system default ProxySelector in HttpClient | **Fix:** Correct C++ SDK path in quickstart-cpp |
@@ -42,9 +49,11 @@
 
 </div>
 
-<div align="center">
+---
 
-### Tech Stacks
+<div align="center">
+  
+### 💻 Tech Stacks
 
 </div>
 
@@ -70,26 +79,29 @@
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github"/>
 </div>
 
-<div align="center">
-
-### Blog
-
-</div>
+---
 
 <div align="center">
+
+### 📚 Blog & Algorithm
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Blog**
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=han97901&color=dark)](https://velog.io/@han97901)
 
-<div align="center">
+</td>
+<td align="center" width="50%">
 
-### Algorithm
-
-</div>
-
-<div align="center">
+**Algorithm**
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han97901)](https://solved.ac/han97901)
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
+</div>
