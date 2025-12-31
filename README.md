@@ -15,43 +15,27 @@
 <b>깊이 몰입해 통찰을 얻는 그 순간까지</b> 포기하지 않습니다.
 </p>
 
-<br>
-
 ---
 
-<br>
-
-<h3 align="center">🏆 Major Projects</h3>
-
-<br>
+### 🏆 Major Projects
 
 | LOCUS | LucidSync | 말하지 않아도 알아요 | 파도가계부 |
 |:---:|:---:|:---:|:---:|
 | Personalized Federated Learning<br>🏅 LG전자 HS연구본부-한양대학교 **최우수상** | KB AI Challenge<br>AI Investment Coaching | NH AI 아이디어 공모전<br>Multimodal Financial Counseling | Android Expense Tracker<br>KAIST Dev Camp |
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SEAIG10) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/hek_credit) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/NH-MVP) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/wave_account) [![Download](https://img.shields.io/badge/Download-414141?style=flat-square&logo=Google%20Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.combe4259.waveaccount&hl=ko) |
 
-<br>
-
 ---
 
-<br>
-
-<h3 align="center">🌟 Open Source Contributions</h3>
-
-<br>
+### 🌟 Open Source Contributions
 
 | jsoup | Flower |
 |:---:|:---:|
 | **Fix:** Use system default ProxySelector in HttpClient | **Fix:** Correct C++ SDK path in quickstart-cpp |
 | [![PR #2390](https://img.shields.io/badge/PR%20%232390-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jhy/jsoup/pull/2390) | [![PR #5979](https://img.shields.io/badge/PR%20%235979-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/adap/flower/pull/5979) |
 
-<br>
-
 ---
 
-<br>
-
-<h3 align="center">💻 Tech Stacks</h3>
+### 💻 Tech Stacks
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
@@ -75,31 +59,25 @@
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github"/>
 </p>
 
-<br>
-
 ---
 
-<br>
-
-<h3 align="center">📚 Blog & Algorithm</h3>
-
-<br>
+### 📚 Blog & Algorithm
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<b>Blog</b><br><br>
-<a href="https://velog.io/@han97901">
-<img src="https://velog-readme-stats.vercel.app/api?name=han97901&color=dark" alt="Velog's GitHub stats"/>
-</a>
+
+**Blog**
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=han97901&color=dark)](https://velog.io/@han97901)
+
 </td>
 <td align="center" width="50%">
-<b>Algorithm</b><br><br>
-<a href="https://solved.ac/han97901">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=han97901" alt="Solved.ac 프로필"/>
-</a>
+
+**Algorithm**
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han97901)](https://solved.ac/han97901)
+
 </td>
 </tr>
 </table>
-
-<br>
