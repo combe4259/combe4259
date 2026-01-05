@@ -14,11 +14,8 @@
 금융 도메인의 기술적 도전과 실시간 데이터 처리의 복잡성을 깊이 탐구하며,<br>
 <b>깊이 몰입해 통찰을 얻는 그 순간까지</b> 포기하지 않습니다.
 </p>
-<p align="center">
-portfolio
-[click](https://bit.ly/44ZjfkG)
 
-</p>
+[portfolio](https://bit.ly/44ZjfkG)
 
 ### 🏆 Major Projects
 
