@@ -15,8 +15,8 @@
 <b>깊이 몰입해 통찰을 얻는 그 순간까지</b> 포기하지 않습니다.
 </p>
 <p align="center">
-  
-[포트폴리오](https://github.com/combe4259/combe4259/blob/main/김준형_포트폴리오.pdf)
+portfolio
+[click](https://bit.ly/44ZjfkG)
 
 </p>
 
