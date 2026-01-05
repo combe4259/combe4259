@@ -39,27 +39,18 @@
 
 ### 💻 Tech Stacks
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github"/>
-</p>
+<table align="center">
+  <tr align="center">
+    <td><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80"/><br><b>80%</b></kbd></td>
+    <td><kbd><img src="https://cdn.simpleicons.org/spring/6DB33F" height="60"/><br><b>70%</b></kbd></td>
+    <td><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/><br><b>75%</b></kbd></td>
+    <td><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/><br><b>70%</b></kbd></td>
+    <td><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/><br><b>80%</b></kbd></td>
+    <td><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"/><br><b>70%</b></kbd></td>
+    <td><kbd><img src="https://skillicons.dev/icons?i=docker" height="20"/><br><b>70%</b></kbd></td>
+    <td><kbd><img src="https://cdn.simpleicons.org/git/F05032" height="60"/><br><b>80%</b></kbd></td>
+  </tr>
+</table>
 
 ---
 
