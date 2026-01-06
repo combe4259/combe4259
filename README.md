@@ -80,3 +80,17 @@
 </td>
 </tr>
 </table>
+
+### 🎨 Hobbies
+
+<p align="center">
+  <strong>Perfume</strong><br>
+  <img src="https://github.com/combe4259/combe4259/raw/main/IMG_4045.jpg" width="80%" alt="Perfume"/>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Football</strong><br>
+  <img src="https://github.com/combe4259/combe4259/raw/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202026-01-06%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%209.26.38.png" width="80%" alt="Football"/>
+</p>
