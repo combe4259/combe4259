@@ -38,7 +38,7 @@
 
 | 프로젝트 | 설명 | 기여 내용 (Key Achievement) |
 |:---|:---|:---|
-| **[jsoup](https://github.com/jhy/jsoup)**<br>[![PR #2390](https://img.shields.io/badge/PR%20%232390-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jhy/jsoup/pull/2390) | **Java 크롤링 라이브러리**<br> | **네트워크 프록시 자동 설정 로직 개선**<br>• HttpClient 내 시스템 기본 ProxySelector를 사용하도록 수정하여 엔터프라이즈 환경의 네트워크 호환성 강화 |
+| **[jsoup](https://github.com/jhy/jsoup)**<br>[![PR #2390](https://img.shields.io/badge/PR%20%232390-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jhy/jsoup/pull/2390) | **Java 크롤링 라이브러리**<br> | **네트워크 프록시 자동 설정 로직 개선**<br>• HttpClient 내 개인 ProxySelector를 사용하도록 수정하여 엔터프라이즈 환경의 네트워크 호환성 강화 |
 | **[Flower](https://github.com/adap/flower)**<br>[![PR #5979](https://img.shields.io/badge/PR%20%235979-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/adap/flower/pull/5979) | **연합 학습(Federated Learning) 프레임워크**<br>| **C++ SDK 경로 오류 수정**<br>•빌드 안정성을 확보하기 위해 잘못된 SDK 참조 경로 최적화 |
 
 ---
