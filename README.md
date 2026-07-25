@@ -40,6 +40,7 @@
 
 | 프로젝트 | 설명 | 기여 내용 (Key Achievement) |
 |:---|:---|:---|
+| **[Spring Batch](https://github.com/spring-projects/spring-batch)**<br>[![PR #5275](https://img.shields.io/badge/PR%20%235275-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/spring-projects/spring-batch/pull/5275) | **자바 배치 처리 프레임워크**<br> | **MongoJobInstanceDao 인터페이스 계약 위반 수정**<br>• `getJobNames()`가 중복 제거·정렬 없이 전체 문서를 메모리에 로드하던 문제와 `getJobInstances()`가 인메모리로 페이징하던 문제를 MongoDB `skip()`/`limit()` 위임 방식으로 수정 |
 | **[jsoup](https://github.com/jhy/jsoup)**<br>[![PR #2390](https://img.shields.io/badge/PR%20%232390-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jhy/jsoup/pull/2390) | **Java 크롤링 라이브러리**<br> | **네트워크 프록시 자동 설정 로직 개선**<br>• HttpClient 내 개인 ProxySelector를 사용하도록 수정하여 엔터프라이즈 환경의 네트워크 호환성 강화 |
 | **[Flower](https://github.com/adap/flower)**<br>[![PR #5979](https://img.shields.io/badge/PR%20%235979-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/adap/flower/pull/5979) | **연합 학습(Federated Learning) 프레임워크**<br>| **C++ SDK 경로 오류 수정**<br>•빌드 안정성을 확보하기 위해 잘못된 SDK 참조 경로 최적화 |
 
