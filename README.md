@@ -27,12 +27,12 @@
 
 | 프로젝트 | 기간 | 설명 |
 |:---|:---:|:---|
+| **🪙 PocketStock**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/PocketStock-PDA) | 2026.06 ~ 07 | **잔돈·포인트 소수점 투자 플랫폼**<br>• 일상 소비에서 남는 잔돈과 적립 포인트를 자동으로 모아 소수점 단위로 주식에 투자해주는 서비스<br>• 🏅 신한투자증권 프로디지털아카데미 **최우수상(1위)** |
+| **📱 SOL-Lite**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Sol-Lite) | 2026.03 ~ 04 | **위젯형 증권 서비스 (대시보드 + AI 챗봇)**<br>• 위젯 드래그↔채팅 상호작용, 자연어 기반 시세조회·매매·환전<br>• 🏅 신한투자증권 프로디지털아카데미 **우수상(1위)** |
 | **🥇 LOCUS**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SEAIG10) | 2025.09 ~ 12 | **On-device AI 기반 예측 청소 시스템**<br>• 멀티모달 컨텍스트 융합으로 오염 발생 예측 능동형 시스템<br>• 🏅 LG전자 HS연구본부-한양대학교 **최우수상**|
 | **💰 LucidSync**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/hek_credit) | 2025.07 ~ 08 | **AI-Powered Investment Coaching Platform**<br>• 매매패턴 점수화와 뉴스 감성분석을 통한 모의거래 피드백 시스템 | 
 | **🗣️ 말하지 않아도 알아요**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/NH-MVP) | 2025.08 ~ 09 | **Multimodal AI Financial Counseling System**<br>• 금융 상담 이해도 파악 및 쉬운 문장 변환 서비스<br>• NH AI 아이디어 공모전 참여 | 
 | **🌊 파도가계부**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/combe4259/wave_account) [![Download](https://img.shields.io/badge/Download-414141?style=flat-square&logo=Google%20Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.combe4259.waveaccount&hl=ko) | 2025.07 | **Android Expense Tracker with Wave Analytics**<br>• 지출 패턴 시각화 가계부 어플리케이션<br>• KAIST Dev Camp - Google Play Store 배포 |
-| **🪙 PocketStock**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/PocketStock-PDA) | 2026.06 ~ 07 | **잔돈·포인트 소수점 투자 플랫폼**<br>• Gradle 멀티모듈 기반 모듈러 모놀리스, DB 경계별 원장 분리 설계<br>• Spring Boot 3.3 · Spring Cloud · Kafka · Redis 활용<br>• 🏅 신한투자증권 프로디지털아카데미 **최우수상(1등)** |
-| **📱 SOL-Lite**<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Sol-Lite) | 2026.03 ~ 04 | **위젯형 증권 서비스 (대시보드 + AI 챗봇)**<br>• 위젯 드래그↔채팅 상호작용, 자연어 기반 시세조회·매매·환전<br>• 🏅 신한투자증권 프로디지털아카데미 **우수상(1등)** |
 
 ---
 
